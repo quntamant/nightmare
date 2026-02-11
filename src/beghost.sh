@@ -88,7 +88,7 @@ read -p "[?] Apply strict firewall rules? (Y/n): " apply_fw
 if [[ "$apply_fw" =~ ^[Yy]$ ]]; then
     echo "[+] Enabling strict iptables firewall rules..."
     
-    # Optional path to your strict iptables script
+    # Optional path to strict iptables script
     /opt/nightmare/strictFirewall.sh
 
 else
