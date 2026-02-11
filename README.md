@@ -42,7 +42,7 @@
 
 ### 💻 From `.deb` package:
 #### Download the latest `.deb` file from releases page:
-[Click this link to download the latest version of Nightmare from releases page](https://github.com/antman-quantamuniverse/nightmare/releases) 
+[Click this link to download the latest version of Nightmare from releases page](https://github.com/quantamant/nightmare/releases) 
 
 #### After downloading the `.deb` file run this command:
 
@@ -114,11 +114,11 @@ This tool leverages the power of:
 ## 📜 License
 
 MIT License  
-Copyright (c) 2025 [Idle Coders Research](https://github.com/idlecoders-research) and its parent organization [Idle Coders](https://github.com/idlecoders1) and the developer [Shuvo Sarker](https://github.com/strangerseemanta)
+Copyright (c) 2025 [Quantam Ant](https://github.com/quantamant) and the developer [Shuvo Sarker](https://github.com/strangerseemanta)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software...
 
-[→ View full license](https://github.com/idlecoders-research/nightmare?tab=MIT-1-ov-file)
+[→ View full license](https://github.com/quantamant/nightmare?tab=MIT-1-ov-file)
 
 ---
 
