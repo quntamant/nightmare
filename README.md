@@ -66,6 +66,7 @@ nightmare help
 ---
 
 ## ⚙️ Requirements
+##Supported OS: Parrot OS (only)
 
 Make sure these are installed:
 
