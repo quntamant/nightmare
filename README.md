@@ -118,7 +118,7 @@ Copyright (c) 2025 [Quantam Ant](https://github.com/quantamant) and the develope
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software...
 
-[→ View full license](https://github.com/quantamant/nightmare?tab=MIT-1-ov-file)
+[→ View full license]([https://github.com/quantamant/nightmare?tab=MIT-1-ov-file](https://github.com/quntamant/nightmare/tree/master?tab=MIT-1-ov-file))
 
 ---
 
