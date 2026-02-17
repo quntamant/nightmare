@@ -51,7 +51,7 @@ sudo dpkg -i nightmare_1.0.deb
 ```
 #### Install with dependencies (If you need):
 
-```bash
+```console []
 sudo apt install macchanger network-manager anonsurf ufw wget toilet
 ```
 #### Then launch:
